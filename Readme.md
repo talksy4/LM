@@ -7,4 +7,4 @@ Testando Git
  * Item 2a  
  * Item 2b 
 
-I think you should use an `<addr>` element here instead. 
+I think you should use an `<https://github.com/talksy4/>` element here instead. 
