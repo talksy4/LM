@@ -1,8 +1,18 @@
-# Chatbots em Python
+# Chatbots em Python 3
 
 ## O que são Chatbots? 
 
-*A definição clássica de um chatbot é um programa de computador que processa a entrada do idioma natural de um usuário e gera respostas inteligentes e relativas que são enviadas de volta ao usuário. Atualmente, os chatbots são alimentados por motores orientados por regras ou por mecanismos artificiais inteligentes (AI) que interagem com os usuários através de uma interface baseada em texto principalmente. Conforme a definição dos autores Rashid Khanem, Anik Das em :*[Build Better Chatbots: A Complete Guide to Getting Started with Chatbots ](https://www.amazon.com/Build-Better-Chatbots-Complete-Getting/dp/1484231104).
+*A definição clássica de um chatbot é um programa de computador que processa a entrada do idioma natural de um usuário e gera respostas inteligentes e relativas que são enviadas de volta ao usuário. Atualmente, os chatbots são alimentados por motores orientados por regras ou por mecanismos artificiais inteligentes (AI) que interagem com os usuários através de uma interface baseada em texto principalmente. Conforme a definição dos autores Rashid Khanem, Anik Das em: *[Build Better Chatbots: A Complete Guide to Getting Started with Chatbots](https://www.amazon.com/Build-Better-Chatbots-Complete-Getting/dp/1484231104).
+
+## Etapa I - 12/03/2018 :
+
+**Objetivo:** Informar tutorial da instalação no ambiente linux:
+ [Link 1](https://www.youtube.com/watch?v=EhphaG6bk0M)
+
+
+
+
+
 
 ## Instalação de Dependências:
 
