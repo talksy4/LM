@@ -1,10 +1,11 @@
 # Chatbot Python 3
 
-#<h3> Instalação de Dependências <h3>
 
-Testando Git
+<h2> Instalação de Dependências <h2>
 
- * Item 1 
+ * Idle3:
+  `<sudo apt-get install idle3>` 
+ 
  * Item 2  
  * Item 2a  
  * Item 2b 
