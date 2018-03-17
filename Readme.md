@@ -17,20 +17,20 @@ A definição clássica de um chatbot é um programa de computador que processa 
 **Objetivo:** Informar um referencial teórico para cada tópico de análise: processos, memória, sistemas de arquivos, thred, entrada/saída:
 
 ### Processos: 
-  - [Referência original](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975913)
-  - [Acesso ao pdf do artigo](https://drive.google.com/drive/folders/1vkwcpHW0gzbg93cotzKxNMK4drQ2hnCA?usp=sharing) 
+  >- [Referência original](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975913)
+  >- [Acesso ao pdf do artigo](https://drive.google.com/drive/folders/1vkwcpHW0gzbg93cotzKxNMK4drQ2hnCA?usp=sharing) 
 
 ### Memória: 
- - [Referência](https://chatbotsjournal.com/25-chat-platforms-a-comparative-table-aeefc932eaff)
+ >- [Referência](https://chatbotsjournal.com/25-chat-platforms-a-comparative-table-aeefc932eaff)
 
 ### Sistema de arquivos:
 
 
 ### Thread: 
- - [Referência](https://medium.com/slack-developer-blog/bringing-your-bot-into-threaded-messages-cd272a42924f)
+ >- [Referência](https://medium.com/slack-developer-blog/bringing-your-bot-into-threaded-messages-cd272a42924f)
 
 ### Entrada/saída:
-  - [Referência]()
+  >- [Referência]()
 
 - [x] Parcialmente Finalizado
 
@@ -39,7 +39,7 @@ A definição clássica de um chatbot é um programa de computador que processa 
 
 **Objetivo:** Fazer um vídeo da instalação do ambiente: 
 
- - [Tutorial da equipe](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975913)
+ >- [Tutorial da equipe](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975913)
  
 - [x] Finalizado
 ## Instalação de Dependências:
