@@ -11,7 +11,6 @@ A definição clássica de um chatbot é um programa de computador que processa 
  >* [Link II ](https://www.youtube.com/watch?v=EhphaG6bk0M)
 
 - [x] Etapa finalizada
-   ESC[ … 38;2;<r>;<g>;<b> … m Select RGB foreground color
 
 ## ATIVIDADE 1b - 12/03/2018 :
 
