@@ -6,26 +6,26 @@ A definição clássica de um chatbot é um programa de computador que processa 
 
 ## Etapa I - 12/03/2018 :
 
-- [x] **Objetivo: ** *Informar 2 tutoriais da instalação do ambiente no linux:* 
+**Objetivo:** *Informar 2 tutoriais da instalação do ambiente no linux:* 
 
  * [Link I ](https://www.youtube.com/watch?v=EhphaG6bk0M)
  * [Link II ](https://www.youtube.com/watch?v=EhphaG6bk0M)
 
+- [x] Finalizado
 
-## - [x] Etapa I - 12/03/2018 :
+## Etapa I - 12/03/2018 :
 
 **Objetivo: ** *Informar um referencial teórico para cada tópico:*
 
  ### Processos: 
-  [Referência original](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975913)
-  [Acesso ao pdf do artigo](https://drive.google.com/drive/folders/1vkwcpHW0gzbg93cotzKxNMK4drQ2hnCA?usp=sharing) 
+  - [Referência original](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975913)
+  - [Acesso ao pdf do artigo](https://drive.google.com/drive/folders/1vkwcpHW0gzbg93cotzKxNMK4drQ2hnCA?usp=sharing) 
 
-###  Memória 
+###  Memória: 
 https://chatbotsjournal.com/25-chat-platforms-a-comparative-table-aeefc932eaff
 
+## Sistema de arquivos:
 
-
-### Sistema de arquivos
 
 ### Thread
 https://medium.com/slack-developer-blog/bringing-your-bot-into-threaded-messages-cd272a42924f
@@ -34,7 +34,7 @@ Entrada/saída
  * [Link I ](https://www.youtube.com/watch?v=EhphaG6bk0M)
  * [Link II ](https://www.youtube.com/watch?v=EhphaG6bk0M)
 
-
+- [/] Parcialmente Finalizado
 
 ## Instalação de Dependências:
 
