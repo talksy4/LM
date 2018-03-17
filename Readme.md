@@ -4,19 +4,19 @@
 
 A definição clássica de um chatbot é um programa de computador que processa a entrada do idioma natural de um usuário e gera respostas inteligentes e relativas que são enviadas de volta ao usuário. Atualmente, os chatbots são alimentados por motores orientados por regras ou por mecanismos artificiais inteligentes (AI) que interagem com os usuários através de uma interface baseada em texto principalmente. Conforme a definição dos autores Rashid Khanem, Anik Das em: [Build Better Chatbots: A Complete Guide to Getting Started with Chatbots](https://www.amazon.com/Build-Better-Chatbots-Complete-Getting/dp/1484231104).
 
-## Etapa I - 12/03/2018 :
+## - [x] Etapa I - 12/03/2018 :
 
-**Objetivo:** Informar 2 tutoriais da instalação do ambiente no linux:
+**Objetivo: ** *Informar 2 tutoriais da instalação do ambiente no linux:* 
 
  * [Link I ](https://www.youtube.com/watch?v=EhphaG6bk0M)
  * [Link II ](https://www.youtube.com/watch?v=EhphaG6bk0M)
 
 
-## Etapa I- 12/03/2018 :
+## - [x] Etapa I - 12/03/2018 :
 
-**Objetivo:** Informar um referencial teórico para cada tópico:
+**Objetivo: ** *Informar um referencial teórico para cada tópico:*
 
- ### Processos
+ ### Processos: 
   [Referência original](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975913)
   [Acesso ao pdf do artigo](https://drive.google.com/drive/folders/1vkwcpHW0gzbg93cotzKxNMK4drQ2hnCA?usp=sharing) 
 
