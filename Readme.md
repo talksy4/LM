@@ -15,16 +15,16 @@ A definição clássica de um chatbot é um programa de computador que processa 
 
 ## Etapa I - 12/03/2018 :
 
-**Objetivo:** *Informar um referencial teórico para cada tópico:*
+**Objetivo:** *Informar um referencial teórico para cada tópico de análise: processos, memória, sistemas de arquivos, thred, entrada/saída:*
 
- ### Processos: 
+ 1.Processos: 
   - [Referência original](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7975913)
   - [Acess ao pdf do artigo](https://drive.google.com/drive/folders/1vkwcpHW0gzbg93cotzKxNMK4drQ2hnCA?usp=sharing) 
 
-###  Memória: 
+2.Memória: 
 https://chatbotsjournal.com/25-chat-platforms-a-comparative-table-aeefc932eaff
 
-### Sistema de arquivos:
+3.Sistema de arquivos:
 
 
 ### Thread: 
